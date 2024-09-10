@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edgaroleon
+- 👋 Hi, I’m @edgar-o-leon
 - 👀 I’m interested in DIY, Crafts, Travel, Philosophy
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on MIDS
